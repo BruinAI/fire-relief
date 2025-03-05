@@ -1,6 +1,6 @@
 # fire-relief
 
-domain: coverclear.bruinai.org
+domain: fire.bruinai.org
 Useful commands for backend
 ```
 celery -A tasks.celery worker --loglevel=info

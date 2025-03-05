@@ -6,3 +6,8 @@ celery
 redis
 pandas
 pymupdf
+pdf2image
+openai
+pillow
+boto3
+dotenv
